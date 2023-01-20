@@ -198,12 +198,11 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:layout_centerHorizontal="true"
-                                    android:layout_centerVertical="true"
+                                    android:layout_centerInParent="true"
                                     android:layout_marginLeft="5dp"
                                     android:layout_toLeftOf="@+id/imag_2"
                                     android:fontFamily="@font/gothic"
-                                    android:text="Excercises"
+                                    android:text="Exercises"
                                     android:textColor="@color/black"
                                     android:textSize="16dp" />
 
@@ -268,7 +267,7 @@
                                 android:layout_marginTop="3dp"
                                 android:layout_marginBottom="5dp"
                                 android:singleLine="true"
-                                android:text="Excercises Report"
+                                android:text="Exercises Report"
                                 android:textAlignment="center"
                                 android:textColor="@color/grey_calendar"
                                 android:textSize="12dp"

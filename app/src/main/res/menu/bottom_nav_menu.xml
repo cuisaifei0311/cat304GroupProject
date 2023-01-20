@@ -13,11 +13,6 @@
         android:title="Workouts" />
 
     <item
-        android:id="@+id/navigation_world"
-        android:icon="@mipmap/menu_calculator"
-        android:title="Calculater" />
-
-    <item
         android:id="@+id/navigation_walk"
         android:icon="@mipmap/menu_walk"
         android:title="Walk &amp; Steps" />

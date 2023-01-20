@@ -56,10 +56,10 @@ public class MainActivity extends AppCompatActivity implements OnNavigationItemS
                     MainActivity.this.openFragment(Fragment_Workout.newInstance(str, str));
                     return true;
 
-                case R.id.navigation_world:
+                /*case R.id.navigation_world:
                     toolbar.setTitle("Calculater");
                     MainActivity.this.openFragment(Fragment_Calculate.newInstance(str, str));
-                    return true;
+                    return true;*/
 
                 case R.id.navigation_walk:
                     toolbar.setTitle("Walk & Step");
